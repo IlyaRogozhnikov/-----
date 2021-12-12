@@ -1,0 +1,19 @@
+.numberContainer {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.days {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding: 0;
+}
+
+.days li {
+    background-color: rgb(63, 63, 175);
+    width: 20%;
+    height: 30px;
+    margin: 2.5px;
+    padding: 5px 0 0 5px;
+}
